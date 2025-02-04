@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Mr-DK07/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0136-single-number](https://github.com/Mr-DK07/Leetcode/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Mr-DK07/Leetcode/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Mr-DK07/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
