@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Mr-DK07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Mr-DK07/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mr-DK07/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Mr-DK07/Leetcode/tree/master/0189-rotate-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mr-DK07/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mr-DK07/Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Mr-DK07/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Mr-DK07/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mr-DK07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mr-DK07/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Mr-DK07/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
