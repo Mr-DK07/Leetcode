@@ -6,7 +6,7 @@ public:
         for(int i = 0;i<n;i++){
             int val = (nums[i]/mid);
            if(nums[i]%mid==0){
-            sum+=floor(val);
+            sum+=(val);
            }
            else{
             sum+= val + 1;
