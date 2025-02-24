@@ -12,12 +12,11 @@ public:
             sum+= val + 1;
            }
         }
-        cout<<mid<<" "<<sum<<endl;
         return sum<=threshold;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int start = 1;
-        int end = 1e8;
+        int end = *max_element(nums.begin(),nums.end());
         int res = 0;
         while(start<=end){
             int mid = ((start+end)/2);
