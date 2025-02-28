@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mr-DK07/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Mr-DK07/Leetcode/tree/master/0242-valid-anagram) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mr-DK07/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mr-DK07/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Mr-DK07/Leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -135,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mr-DK07/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Mr-DK07/Leetcode/tree/master/0242-valid-anagram) |
 | [2032-largest-odd-number-in-string](https://github.com/Mr-DK07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
