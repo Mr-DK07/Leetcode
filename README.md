@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mr-DK07/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Mr-DK07/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Mr-DK07/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mr-DK07/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Mr-DK07/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Mr-DK07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Mr-DK07/Leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Mr-DK07/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
