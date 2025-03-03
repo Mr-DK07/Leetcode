@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mr-DK07/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Mr-DK07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mr-DK07/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mr-DK07/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mr-DK07/Leetcode/tree/master/0189-rotate-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mr-DK07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Mr-DK07/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Mr-DK07/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mr-DK07/Leetcode/tree/master/0242-valid-anagram) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mr-DK07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Mr-DK07/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mr-DK07/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mr-DK07/Leetcode/tree/master/0242-valid-anagram) |
