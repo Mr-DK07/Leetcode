@@ -228,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mr-DK07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mr-DK07/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mr-DK07/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mr-DK07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mr-DK07/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mr-DK07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mr-DK07/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Merge Sort
 |  |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mr-DK07/Leetcode/tree/master/0496-next-greater-element-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mr-DK07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
