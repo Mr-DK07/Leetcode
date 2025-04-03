@@ -186,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mr-DK07/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-DK07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mr-DK07/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/Mr-DK07/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Mr-DK07/Leetcode/tree/master/0812-rotate-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mr-DK07/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mr-DK07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Mr-DK07/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Mr-DK07/Leetcode/tree/master/0812-rotate-string) |
 ## Counting
 |  |
